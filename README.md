@@ -12,16 +12,7 @@ Welcome to my GitHub! I'm a developer passionate about technological innovation,
 
 ## 💻 Projects
 
-### 1. [Neighborhood Group · Community Group-Buying Platform](https://github.com/chenwenjun/project-neighborhood) 🏘️
-
-- **Tech stack**: Spring Boot, MyBatis, MySQL, Redis, RabbitMQ  
-- **Description**: Designed and implemented a group-buying social e-commerce system covering the full flow from price calculation and order locking to payment settlement and refunds.  
-- **Key responsibilities**:
-  - Designed and implemented a promotion rule filtering engine using the Chain of Responsibility pattern.
-  - Implemented discount/price trial calculation and improved response performance via multithreaded asynchronous loading.
-  - Used Redis bitmaps for precise user filtering and solved high-concurrency performance bottlenecks.
-
-### 2. [Intelligent Business Assistant (Food Recommendation / Flight Refund Query)](https://github.com/chenwenjun/project-intelligent-assistant) 🤖🍜✈️
+### 1. [Intelligent Business Assistant (Food Recommendation / Flight Refund Query)] 🤖🍜✈️
 
 - **Tech stack**: Dify Chatflow, Multi-Agent, RAG, vLLM, Qwen3  
 - **Description**: Designed and implemented a multi-agent architecture to provide scalable solutions for food recommendations and flight refund queries.  
@@ -30,7 +21,7 @@ Welcome to my GitHub! I'm a developer passionate about technological innovation,
   - Combined structured knowledge bases with RAG to provide trustworthy food recommendations and flight refund answers.
   - Used Qwen3 to ensure data safety and enable cross-agent multi-turn context sharing.
 
-### 3. [Hanfu Rental Flash-Sale & Intelligent Customer Service Platform](https://github.com/chenwenjun/project-hanfuren) 👘⚡💬
+### 2. [Hanfu Rental Flash-Sale & Intelligent Customer Service Platform] 👘⚡💬
 
 - **Tech stack**: Spring Boot, MyBatis, Redis, RAG, Tool Calling, SSE  
 - **Description**: Built a high-concurrency flash-sale system for a Hanfu rental platform and introduced intelligent customer service using an RAG knowledge base to improve user experience.  
