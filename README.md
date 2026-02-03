@@ -1,6 +1,6 @@
 # 陈文骏的个人主页
 
-欢迎访问我的 GitHub！我是一个热衷于技术创新的开发者，专注于后端开发、大模型应用及多种前沿技术。我的技术栈包括 C/C++；Java、Spring Boot、Redis；Python、RAG（Retrieval Augmented Generation）、多 Agent 系统等。拥有扎实的计算机基础和高效的团队协作能力，始终保持对新技术的探索热情。
+欢迎访问我的 GitHub！我是一个热衷于技术创新的开发者，专注于后端开发、大模型应用及多种前沿技术。我的技术栈包括 C/C++；Java、Spring Boot、Redis；Python、RAG（Retrieval Augmented Generation）、多 Agent 系统等；目前正在探索multi-agent范式优化，如Plan&Slove、ReAct、Reflexion等。拥有扎实的计算机基础和高效的团队协作能力，始终保持对新技术的探索热情。
 
 ## 🛠️ 技能专长
 
