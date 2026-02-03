@@ -38,7 +38,6 @@ Welcome to my GitHub! I'm a developer passionate about technological innovation,
 ## 📬 Contact
 
 - Email: [13336119163@163.com](mailto:13336119163@163.com) ✉️  
-- Phone: +86 133-3611-9163 📱  
 - Location: Beijing 🇨🇳
 
 ---
