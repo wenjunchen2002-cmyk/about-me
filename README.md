@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a developer passionate about technological innovation,
 
 ## 🛠️ Core Skills
 
-- **Languages**: Java, Python  
+- **Languages**: Java, Python, C/C++ 
 - **Backend**: Spring Boot, MySQL, Redis, RabbitMQ, MyBatis  
 - **Caching & Big Data**: Caffeine, Redis (two-level cache), Lua scripting  
 - **AI & Large Model Applications**: RAG, Multi-Agent systems, Spring AI  
